@@ -1,0 +1,15 @@
+/Users/kennerson.pereira/RiderProjects/Polymorphism.WorkflowEngine/Polymorphism.WorkflowEngine/bin/Debug/net5.0/Polymorphism.WorkflowEngine.deps.json
+/Users/kennerson.pereira/RiderProjects/Polymorphism.WorkflowEngine/Polymorphism.WorkflowEngine/bin/Debug/net5.0/Polymorphism.WorkflowEngine.runtimeconfig.json
+/Users/kennerson.pereira/RiderProjects/Polymorphism.WorkflowEngine/Polymorphism.WorkflowEngine/bin/Debug/net5.0/Polymorphism.WorkflowEngine.runtimeconfig.dev.json
+/Users/kennerson.pereira/RiderProjects/Polymorphism.WorkflowEngine/Polymorphism.WorkflowEngine/bin/Debug/net5.0/Polymorphism.WorkflowEngine.dll
+/Users/kennerson.pereira/RiderProjects/Polymorphism.WorkflowEngine/Polymorphism.WorkflowEngine/bin/Debug/net5.0/ref/Polymorphism.WorkflowEngine.dll
+/Users/kennerson.pereira/RiderProjects/Polymorphism.WorkflowEngine/Polymorphism.WorkflowEngine/bin/Debug/net5.0/Polymorphism.WorkflowEngine.pdb
+/Users/kennerson.pereira/RiderProjects/Polymorphism.WorkflowEngine/Polymorphism.WorkflowEngine/obj/Debug/net5.0/Polymorphism.WorkflowEngine.csproj.AssemblyReference.cache
+/Users/kennerson.pereira/RiderProjects/Polymorphism.WorkflowEngine/Polymorphism.WorkflowEngine/obj/Debug/net5.0/Polymorphism.WorkflowEngine.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kennerson.pereira/RiderProjects/Polymorphism.WorkflowEngine/Polymorphism.WorkflowEngine/obj/Debug/net5.0/Polymorphism.WorkflowEngine.AssemblyInfoInputs.cache
+/Users/kennerson.pereira/RiderProjects/Polymorphism.WorkflowEngine/Polymorphism.WorkflowEngine/obj/Debug/net5.0/Polymorphism.WorkflowEngine.AssemblyInfo.cs
+/Users/kennerson.pereira/RiderProjects/Polymorphism.WorkflowEngine/Polymorphism.WorkflowEngine/obj/Debug/net5.0/Polymorphism.WorkflowEngine.csproj.CoreCompileInputs.cache
+/Users/kennerson.pereira/RiderProjects/Polymorphism.WorkflowEngine/Polymorphism.WorkflowEngine/obj/Debug/net5.0/Polymorphism.WorkflowEngine.dll
+/Users/kennerson.pereira/RiderProjects/Polymorphism.WorkflowEngine/Polymorphism.WorkflowEngine/obj/Debug/net5.0/ref/Polymorphism.WorkflowEngine.dll
+/Users/kennerson.pereira/RiderProjects/Polymorphism.WorkflowEngine/Polymorphism.WorkflowEngine/obj/Debug/net5.0/Polymorphism.WorkflowEngine.pdb
+/Users/kennerson.pereira/RiderProjects/Polymorphism.WorkflowEngine/Polymorphism.WorkflowEngine/obj/Debug/net5.0/Polymorphism.WorkflowEngine.genruntimeconfig.cache
