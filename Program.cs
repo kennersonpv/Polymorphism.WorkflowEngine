@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Security.Cryptography.X509Certificates;
 
 namespace Polymorphism.WorkflowEngine
 {
@@ -6,12 +7,14 @@ namespace Polymorphism.WorkflowEngine
     {
         static void Main(string[] args)
         {
-            var engine = new Engine();
-            engine.AddActivity(new VideoUpload());
-            engine.AddActivity(new VideoEncoding());
-            engine.AddActivity(new SendEmail());
-            engine.AddActivity(new VideoStatus());
-            engine.Run();
+            IWorkflow workflow = new Workflow();
+            workflow.AddActivity(new VideoUpload());
+            workflow.AddActivity(new VideoEncoding());
+            workflow.AddActivity(new SendEmail());
+            workflow.AddActivity(new VideoStatus());
+
+            IWorkflowEngine workflowEngine = new WorkflowEngine();
+            workflowEngine.Run(workflow);
         }
     }
 }
